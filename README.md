@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/10203092/253147352-388058dd-1bb2-42c1-a59f-b35aa48aab83.png" width="30%">
 
-![thumb](https://github.com/gcback/sliver_to_apple_weather/assets/10203092/0932a6b0-851a-465f-a695-7349f661a7cb "thumb")
+![<img src="https://user-images.githubusercontent.com/10203092/253147352-388058dd-1bb2-42c1-a59f-b35aa48aab83.png" width="30%">](https://github.com/gcback/sliver_to_apple_weather/assets/10203092/0932a6b0-851a-465f-a695-7349f661a7cb "thumb")
 
 ### 1. 세가지 Sliver 위젯를 활용
   - SliverAppBar + SliverToBoxAdapter + SliverPersistentHeader
